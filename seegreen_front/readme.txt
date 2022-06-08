@@ -1,4 +1,3 @@
-Sismotos
 
 Para rodar este projeto sigam os passos:
 1. No MySQL crie o banco de dados dbempresas
